@@ -1,0 +1,13 @@
+title: memory-bound
+description: AI, ML, and DL learnings and notes.
+baseurl: ""
+url: "https://memory-bound.github.io"
+
+markdown: kramdown
+permalink: /posts/:title/
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
